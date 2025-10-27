@@ -1,4 +1,8 @@
-# Ice Game Store Sales Analysis / Análisis de Ventas de Videojuegos
+<p align="center">
+  <img src="game.jpg" alt="Ice Game Store Analysis Banner" width="800">
+</p>
+
+# Ice Game Store Sales Analysis
 
 Analysis of global video game sales, reviews, platforms, and ESRB ratings. The goal is to detect success patterns and propose marketing strategies.
 
